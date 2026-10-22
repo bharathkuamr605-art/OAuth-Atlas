@@ -1,0 +1,8 @@
+{
+  "name": "oauth-guide-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Evidence-first OAuth setup guide library and live research prototype",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=18"}
+}
